@@ -1,6 +1,6 @@
 # FastAPI Products API
 
-Este proyecto proporciona una API RESTful simple para gestionar productos. Está diseñada para integrarse fácilmente con aplicaciones frontend como Angular o React, y en particular con la app **Angular 20 Course App** desarrollada por el profesor Alejandro Alzate.
+Este proyecto proporciona una API RESTful simple para gestionar productos. Está diseñada para integrarse fácilmente con aplicaciones frontend como Angular o React, y en particular con la app **Angular 20 Course App**.
 
 ## Tecnologías
 
